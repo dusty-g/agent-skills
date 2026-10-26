@@ -1,0 +1,14 @@
+interface:
+  display_name: Chess Analysis
+  short_description: Review Chess.com games with practical engine coaching
+  default_prompt: Use $chess-analysis to review recent rapid games for my
+    Chess.com username.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+api-cache/
+output/
+reports/
+games.json
+analysis.json
+positions.json
+*.pgn
+.env
+.env.*
+.DS_Store
